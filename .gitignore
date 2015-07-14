@@ -1,0 +1,7 @@
+# R Workspace Specific
+.RData
+.Rhistory
+
+# Data folder
+data
+
