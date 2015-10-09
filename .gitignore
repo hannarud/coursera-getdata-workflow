@@ -3,5 +3,8 @@
 .Rhistory
 
 # Data folder
-data
+data/*
 
+# But we still need two data files to be included because they are manually made
+!data/quizz3q3data1_worked.csv
+!data/quizz3q3data2_worked.csv

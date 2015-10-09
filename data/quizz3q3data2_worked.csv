@@ -1,0 +1,242 @@
+Country Code;Table Name;Income Group
+AFG;Afghanistan;Low income
+ALB;Albania;Upper middle income
+DZA;Algeria;Upper middle income
+ASM;American Samoa;Upper middle income
+ADO;Andorra;High income: nonOECD
+AGO;Angola;Upper middle income
+ATG;Antigua and Barbuda;High income: nonOECD
+ARB;Arab World;
+ARG;Argentina;Upper middle income
+ARM;Armenia;Lower middle income
+ABW;Aruba;High income: nonOECD
+AUS;Australia;High income: OECD
+AUT;Austria;High income: OECD
+AZE;Azerbaijan;Upper middle income
+BHR;Bahrain;High income: nonOECD
+BGD;Bangladesh;Low income
+BRB;Barbados;High income: nonOECD
+BLR;Belarus;Upper middle income
+BEL;Belgium;High income: OECD
+BLZ;Belize;Upper middle income
+BEN;Benin;Low income
+BMU;Bermuda;High income: nonOECD
+BTN;Bhutan;Lower middle income
+BOL;Bolivia;Lower middle income
+BIH;Bosnia and Herzegovina;Upper middle income
+BWA;Botswana;Upper middle income
+BRA;Brazil;Upper middle income
+BRN;Brunei Darussalam;High income: nonOECD
+BGR;Bulgaria;Upper middle income
+BFA;Burkina Faso;Low income
+BDI;Burundi;Low income
+CPV;Cabo Verde;Lower middle income
+KHM;Cambodia;Low income
+CMR;Cameroon;Lower middle income
+CAN;Canada;High income: OECD
+CYM;Cayman Islands;High income: nonOECD
+CAF;Central African Republic;Low income
+TCD;Chad;Low income
+CHI;Channel Islands;High income: nonOECD
+CHL;Chile;High income: OECD
+CHN;China;Upper middle income
+COL;Colombia;Upper middle income
+COM;Comoros;Low income
+COG;Congo, Rep.;Lower middle income
+CRI;Costa Rica;Upper middle income
+CIV;Côte d'Ivoire;Lower middle income
+HRV;Croatia;High income: nonOECD
+CUB;Cuba;Upper middle income
+CUW;Curaçao;High income: nonOECD
+CYP;Cyprus;High income: nonOECD
+CZE;Czech Republic;High income: OECD
+PRK;Korea, Dem. Rep.;Low income
+ZAR;Congo, Dem. Rep.;Low income
+DNK;Denmark;High income: OECD
+DJI;Djibouti;Lower middle income
+DMA;Dominica;Upper middle income
+DOM;Dominican Republic;Upper middle income
+EAS;East Asia & Pacific (all income levels);
+EAP;East Asia & Pacific;
+ECU;Ecuador;Upper middle income
+EGY;Egypt, Arab Rep.;Lower middle income
+SLV;El Salvador;Lower middle income
+GNQ;Equatorial Guinea;High income: nonOECD
+ERI;Eritrea;Low income
+EST;Estonia;High income: OECD
+ETH;Ethiopia;Low income
+EMU;Euro area;
+ECS;Europe & Central Asia (all income levels);
+ECA;Europe & Central Asia;
+EUU;European Union;
+FRO;Faeroe Islands;High income: nonOECD
+FJI;Fiji;Upper middle income
+FIN;Finland;High income: OECD
+FRA;France;High income: OECD
+PYF;French Polynesia;High income: nonOECD
+GAB;Gabon;Upper middle income
+GEO;Georgia;Lower middle income
+DEU;Germany;High income: OECD
+GHA;Ghana;Lower middle income
+GRC;Greece;High income: OECD
+GRL;Greenland;High income: nonOECD
+GRD;Grenada;Upper middle income
+GUM;Guam;High income: nonOECD
+GTM;Guatemala;Lower middle income
+GIN;Guinea;Low income
+GNB;Guinea-Bissau;Low income
+GUY;Guyana;Lower middle income
+HTI;Haiti;Low income
+HPC;Heavily indebted poor countries (HIPC);
+HIC;High income;
+NOC;High income: nonOECD;
+OEC;High income: OECD;
+HND;Honduras;Lower middle income
+HKG;Hong Kong SAR, China;High income: nonOECD
+HUN;Hungary;Upper middle income
+ISL;Iceland;High income: OECD
+IND;India;Lower middle income
+IDN;Indonesia;Lower middle income
+IRN;Iran, Islamic Rep.;Upper middle income
+IRQ;Iraq;Upper middle income
+IRL;Ireland;High income: OECD
+IMY;Isle of Man;High income: nonOECD
+ISR;Israel;High income: OECD
+ITA;Italy;High income: OECD
+JAM;Jamaica;Upper middle income
+JPN;Japan;High income: OECD
+JOR;Jordan;Upper middle income
+KAZ;Kazakhstan;Upper middle income
+KEN;Kenya;Low income
+KIR;Kiribati;Lower middle income
+KOR;Korea, Rep.;High income: OECD
+KSV;Kosovo;Lower middle income
+KWT;Kuwait;High income: nonOECD
+KGZ;Kyrgyz Republic;Lower middle income
+LAO;Lao PDR;Lower middle income
+LCN;Latin America & Caribbean (all income levels);
+LAC;Latin America & Caribbean;
+LVA;Latvia;High income: nonOECD
+LDC;Least developed countries: UN classification;
+LBN;Lebanon;Upper middle income
+LSO;Lesotho;Lower middle income
+LBR;Liberia;Low income
+LBY;Libya;Upper middle income
+LIE;Liechtenstein;High income: nonOECD
+LTU;Lithuania;High income: nonOECD
+LMY;Low & middle income;
+LIC;Low income;
+LMC;Lower middle income;
+LUX;Luxembourg;High income: OECD
+MAC;Macao SAR, China;High income: nonOECD
+MKD;Macedonia, FYR;Upper middle income
+MDG;Madagascar;Low income
+MWI;Malawi;Low income
+MYS;Malaysia;Upper middle income
+MDV;Maldives;Upper middle income
+MLI;Mali;Low income
+MLT;Malta;High income: nonOECD
+MHL;Marshall Islands;Upper middle income
+MRT;Mauritania;Lower middle income
+MUS;Mauritius;Upper middle income
+MEX;Mexico;Upper middle income
+FSM;Micronesia, Fed. Sts.;Lower middle income
+MEA;Middle East & North Africa (all income levels);
+MNA;Middle East & North Africa;
+MIC;Middle income;
+MDA;Moldova;Lower middle income
+MCO;Monaco;High income: nonOECD
+MNG;Mongolia;Lower middle income
+MNE;Montenegro;Upper middle income
+MAR;Morocco;Lower middle income
+MOZ;Mozambique;Low income
+MMR;Myanmar;Low income
+NAM;Namibia;Upper middle income
+NPL;Nepal;Low income
+NLD;Netherlands;High income: OECD
+NCL;New Caledonia;High income: nonOECD
+NZL;New Zealand;High income: OECD
+NIC;Nicaragua;Lower middle income
+NER;Niger;Low income
+NGA;Nigeria;Lower middle income
+NAC;North America;
+MNP;Northern Mariana Islands;High income: nonOECD
+NOR;Norway;High income: OECD
+OED;OECD members;
+OMN;Oman;High income: nonOECD
+PAK;Pakistan;Lower middle income
+PLW;Palau;Upper middle income
+PAN;Panama;Upper middle income
+PNG;Papua New Guinea;Lower middle income
+PRY;Paraguay;Lower middle income
+PER;Peru;Upper middle income
+PHL;Philippines;Lower middle income
+POL;Poland;High income: OECD
+PRT;Portugal;High income: OECD
+PRI;Puerto Rico;High income: nonOECD
+QAT;Qatar;High income: nonOECD
+ROM;Romania;Upper middle income
+RUS;Russian Federation;High income: nonOECD
+RWA;Rwanda;Low income
+WSM;Samoa;Lower middle income
+SMR;San Marino;High income: nonOECD
+STP;São Tomé and Principe;Lower middle income
+SAU;Saudi Arabia;High income: nonOECD
+SEN;Senegal;Lower middle income
+SRB;Serbia;Upper middle income
+SYC;Seychelles;Upper middle income
+SLE;Sierra Leone;Low income
+SGP;Singapore;High income: nonOECD
+SXM;Sint Maarten (Dutch part);High income: nonOECD
+SVK;Slovak Republic;High income: OECD
+SVN;Slovenia;High income: OECD
+SLB;Solomon Islands;Lower middle income
+SOM;Somalia;Low income
+ZAF;South Africa;Upper middle income
+SAS;South Asia;
+SSD;South Sudan;Lower middle income
+ESP;Spain;High income: OECD
+LKA;Sri Lanka;Lower middle income
+KNA;St. Kitts and Nevis;High income: nonOECD
+LCA;St. Lucia;Upper middle income
+MAF;St. Martin (French part);High income: nonOECD
+VCT;St. Vincent and the Grenadines;Upper middle income
+SSF;Sub-Saharan Africa (all income levels);
+SSA;Sub-Saharan Africa;
+SDN;Sudan;Lower middle income
+SUR;Suriname;Upper middle income
+SWZ;Swaziland;Lower middle income
+SWE;Sweden;High income: OECD
+CHE;Switzerland;High income: OECD
+SYR;Syrian Arab Republic;Lower middle income
+TJK;Tajikistan;Low income
+TZA;Tanzania;Low income
+THA;Thailand;Upper middle income
+BHS;Bahamas, The;High income: nonOECD
+GMB;Gambia, The;Low income
+TMP;Timor-Leste;Lower middle income
+TGO;Togo;Low income
+TON;Tonga;Upper middle income
+TTO;Trinidad and Tobago;High income: nonOECD
+TUN;Tunisia;Upper middle income
+TUR;Turkey;Upper middle income
+TKM;Turkmenistan;Upper middle income
+TCA;Turks and Caicos Islands;High income: nonOECD
+TUV;Tuvalu;Upper middle income
+UGA;Uganda;Low income
+UKR;Ukraine;Lower middle income
+ARE;United Arab Emirates;High income: nonOECD
+GBR;United Kingdom;High income: OECD
+USA;United States;High income: OECD
+UMC;Upper middle income;
+URY;Uruguay;High income: nonOECD
+UZB;Uzbekistan;Lower middle income
+VUT;Vanuatu;Lower middle income
+VEN;Venezuela, RB;Upper middle income
+VNM;Vietnam;Lower middle income
+VIR;Virgin Islands (U.S.);High income: nonOECD
+WBG;West Bank and Gaza;Lower middle income
+WLD;World;
+YEM;Yemen, Rep.;Lower middle income
+ZMB;Zambia;Lower middle income
+ZWE;Zimbabwe;Low income
